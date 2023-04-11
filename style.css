@@ -1,4 +1,4 @@
-body{background-color:#EAFAF1 ;}
+body{background-color:#dddddd ;}
 
 ul {
     list-style-type: none;
@@ -23,7 +23,7 @@ li a {
 }
 
 li a:hover:not(.active) {
-    background-color: rgb(0, 117, 126);
+    background-color: #00a3a9;
 }
   body {
       font-family: Arial, Helvetica, sans-serif;
@@ -38,3 +38,17 @@ li a:hover:not(.active) {
     position:absolute;
     
 }
+.texto{
+    text-align: center;
+}
+
+a {
+    background-color: rgb(0, 117, 126);
+    color:white;
+    padding: 15px  40px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+    text-align: center;
+    font-family:verdana;
+    text-decoration: none;
+    display: inline-block;
+}
+            
